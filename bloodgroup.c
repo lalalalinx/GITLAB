@@ -4,12 +4,11 @@ void main()
 { char Name[40], G[5], answer[20];
   int i;
   do
-  {
-    printf("What is your Name? 12");
+    printf("What is your Name? huh?sad");
     scanf("%s", Name);
     do
     {
-      printf("What is your blood group [A, B, AB, or O]? ");
+      printf("What is your blood grouprrrrr [A, B, AB, or O]? ");
       scanf("%s", G);
 
       if (strcmp(G, "A") !=0  &&
